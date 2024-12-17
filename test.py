@@ -235,7 +235,7 @@ async def transcribe_audio(file: UploadFile = File(...)):
 
 @app.post("/process_images")
 async def process_images():
-    image_url = "https://190c-105-67-6-147.ngrok-free.app/latest_frame"
+    image_url = "https://4c2f-41-251-5-194.ngrok-free.app/latest_frame"
     
     try:
         # Fetch the image from the URL

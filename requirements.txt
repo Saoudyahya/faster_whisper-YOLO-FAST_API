@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+transformers
+torch
+numpy
+opencv-python-headless
+pillow
+requests
+collections-extended
+ultralytics
+faster-whisper
